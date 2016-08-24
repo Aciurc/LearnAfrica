@@ -1,4 +1,4 @@
-package a00903379.bcit.learnafrica;
+package com.devpants.learnafrica;
 
 import org.junit.Test;
 
