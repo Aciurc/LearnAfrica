@@ -1,54 +1,58 @@
 <resources>
     <string name="app_name">LearnAfrica</string>
-    <string name="algeria">Algeria</string>
-    <string name="angola">Angola</string>
-    <string name="benin">Benin</string>
-    <string name="botswana">Botswana</string>
-    <string name="burkina_faso">Burkina Faso</string>
-    <string name="burundi">Burundi</string>
-    <string name="cameroon">Cameroon</string>
-    <string name="car">Central African Republic</string>
-    <string name="chad">Chad</string>
-    <string name="drc">Democratic Republic of Congo</string>
-    <string name="congo">Congo</string>
-    <string name="cote">Cote d'Ivoire</string>
-    <string name="djibouti">Djibouti</string>
-    <string name="egypt">Egypt</string>
-    <string name="eg">Equatorial Guinea</string>
-    <string name="eritrea">Eritrea</string>
-    <string name="ethiopia">Ethiopia</string>
-    <string name="gabon">Gabon</string>
-    <string name="gambia">Gambia</string>
-    <string name="ghana">Ghana</string>
-    <string name="guinea_bissau">Guinea Bissau</string>
-    <string name="guinea">Guinea</string>
-    <string name="kenya">Kenya</string>
-    <string name="lesotho">Lesotho</string>
-    <string name="liberia">Liberia</string>
-    <string name="libya">Libya</string>
-    <string name="madagascar">Madagascar</string>
-    <string name="malawi">Malawi</string>
-    <string name="mali">Mali</string>
-    <string name="mauritania">Mauritania</string>
-    <string name="morocco">Morocco</string>
-    <string name="mozambique">Mozambique</string>
-    <string name="namibia">Namibia</string>
-    <string name="niger">Niger</string>
-    <string name="nigeria">Nigeria</string>
-    <string name="rwanda">Rwanda</string>
-    <string name="sao_tome">Sao Tome and Principe</string>
-    <string name="senegal">Senegal</string>
-    <string name="seychelles">Seychelles</string>
-    <string name="sierra_leone">Sierra Leone</string>
-    <string name="somalia">Somalia</string>
-    <string name="south_africa">South Africa</string>
-    <string name="south_sudan">South Sudan</string>
-    <string name="sudan">Sudan</string>
-    <string name="swaziland">Swaziland</string>
-    <string name="tanzania">Tanzania</string>
-    <string name="togo">Togo</string>
-    <string name="tunisia">Tunisia</string>
-    <string name="uganda">Uganda</string>
-    <string name="zambia">Zambia</string>
-    <string name="zimbabwe">Zimbabwe</string>
+
+    <string-array name="countries">
+        <item>Algeria</item>
+        <item>Angola</item>
+        <item>Benin</item>
+        <item>Botswana</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cameroon</item>
+        <item>Central African Republic</item>
+        <item>Chad</item>
+        <item>Democratic Republic of Congo</item>
+        <item>Congo</item>
+        <item>Cote d\'Ivoire</item>
+        <item>Djibouti</item>
+        <item>Egypt</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Ethiopia</item>
+        <item>Gabon</item>
+        <item>Gambia</item>
+        <item>Ghana</item>
+        <item>Guinea Bissau</item>
+        <item>Guinea</item>
+        <item>Kenya</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Mali</item>
+        <item>Mauritania</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Namibia</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>Rwanda</item>
+        <item>Sao Tome and Principe</item>
+        <item>Senegal</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Sudan</item>
+        <item>Sudan</item>
+        <item>Swaziland</item>
+        <item>Tanzania</item>
+        <item>Togo</item>
+        <item>Tunisia</item>
+        <item>Uganda</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+    </string-array>
+
 </resources>
