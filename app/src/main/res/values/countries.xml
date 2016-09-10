@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>Algeria,668,425</item>
+        <item>Angola,1095,1681</item>
+        <item>Benin,625,955</item>
+        <item>Botswana,1286,1978</item>
+        <item>Burkina Faso,497,901</item>
+        <item>Burundi,1496,1404</item>
+        <item>Cameroon,936,1138</item>
+        <item>Central African Republic,1207,1083</item>
+        <item>Chad,1116,831</item>
+        <item>Congo,1055,1302</item>
+        <item>Cote d\'Ivoire,386,1048</item>
+        <item>Democratic Republic of Congo,1306,1341</item>
+        <item>Djibouti,1868,905</item>
+        <item>Egypt,1450,499</item>
+        <item>Equatorial Guinea,884,1250</item>
+        <item>Eritrea,1704,775</item>
+        <item>Ethiopia,1742,1019</item>
+        <item>Gabon,909,1316</item>
+        <item>Gambia,120,838</item>
+        <item>Ghana,505,1042</item>
+        <item>Guinea,224,938</item>
+        <item>Guinea Bissau,128,877</item>
+        <item>Kenya,1711,1278</item>
+        <item>Lesotho,1407,2209</item>
+        <item>Liberia,256,1068</item>
+        <item>Libya,1108,462</item>
+        <item>Madagascar,1956,1884</item>
+        <item>Mali,519,715</item>
+        <item>Malawi,1606,1707</item>
+        <item>Mauritania,251,664</item>
+        <item>Morocco,442,270</item>
+        <item>Mozambique,1706,1754</item>
+        <item>Namibia,1078,1958</item>
+        <item>Niger,844,760</item>
+        <item>Nigeria,794,1007</item>
+        <item>Rwanda,1496,1352</item>
+        <item>Sao Tome and Principe,820,1191</item>
+        <item>Senegal,119,788</item>
+        <item>Seychelles,2096,1464</item>
+        <item>Sierra Leone,193,997</item>
+        <item>Somalia,1903,1195</item>
+        <item>South Africa,1310,2152</item>
+        <item>South Sudan,1460,1063</item>
+        <item>Sudan,1444,783</item>
+        <item>Swaziland,1501,2119</item>
+        <item>Tanzania,1633,1490</item>
+        <item>Togo,580,1020</item>
+        <item>Tunisia,850,251</item>
+        <item>Uganda,1571,1238</item>
+        <item>Western Sahara,215,479</item>
+        <item>Zambia,1362,1756</item>
+        <item>Zimbabwe,1469,1903</item>
+    </string-array>
+</resources>
